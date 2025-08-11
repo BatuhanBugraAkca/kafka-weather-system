@@ -1,3 +1,4 @@
+![exp](output.png)
 Weather Alert System with Kafka
 What This Project Does
 This project is a small system for a home task. It checks the weather and can send alerts. The system has three small programs that work together and use Kafka to talk to each other.
@@ -52,5 +53,5 @@ How to See an Alert
 You can see an alert message in the program logs. When the weather is very hot for a zipcode you chose, the 
 
 Alert Service will write a message saying there is an alert.
-![exp](output.png)
+
 
