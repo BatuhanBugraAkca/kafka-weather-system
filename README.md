@@ -52,3 +52,5 @@ How to See an Alert
 You can see an alert message in the program logs. When the weather is very hot for a zipcode you chose, the 
 
 Alert Service will write a message saying there is an alert.
+![exp](output.png)
+
