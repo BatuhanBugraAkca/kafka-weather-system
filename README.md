@@ -1,5 +1,3 @@
-Elbette, B1 seviyesinde İngilizce ile daha basit ve anlaşılır bir README dosyası aşağıdadır.
-
 Weather Alert System with Kafka
 What This Project Does
 This project is a small system for a home task. It checks the weather and can send alerts. The system has three small programs that work together and use Kafka to talk to each other.
